@@ -4,6 +4,6 @@ class Hero
 
   def initialize
     @weapon = 'sword'
-    @points = '200'
+    @points = '1000'
   end
 end
